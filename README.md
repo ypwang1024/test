@@ -6,4 +6,3 @@ hello adm.
 54321
 12345
 opopopop
-kkkkkkkkk
